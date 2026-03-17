@@ -1,9 +1,9 @@
-fastapi
+ffastapi
 uvicorn
 langchain
-faiss-cpu
-beautifulsoup4
-requests
-openai
-jinja2
 langchain-community
+langchain-openai
+faiss-cpu
+openai
+tiktoken
+google-generativeai
