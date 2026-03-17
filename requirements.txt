@@ -2,8 +2,9 @@ fastapi
 uvicorn
 langchain
 langchain-community
-langchain-openai
 faiss-cpu
 jinja2
 requests
 beautifulsoup4
+sentence-transformers
+google-generativeai
