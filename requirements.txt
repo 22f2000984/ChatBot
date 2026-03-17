@@ -6,3 +6,4 @@ beautifulsoup4
 requests
 openai
 jinja2
+langchain-community
